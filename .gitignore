@@ -9,3 +9,4 @@
 .env
 *.wal
 *.vscode
+*.db
